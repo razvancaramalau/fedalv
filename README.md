@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ## Run
 
 ## Contact Info
-Razvan Caramalau: [r.caramalau@ucl.ac.uk](r.caramalau@ucl.ac.uk)
+Razvan Caramalau: [razvan.caramalau90@gmail.com](razvan.caramalau90@gmail.com)
 
 ## Acknowledgement
 <img src="https://yt3.googleusercontent.com/ytc/APkrFKaZmJX90Ir3pRdRYFs0sKVHIYHlN24a0GPaVSjh=s176-c-k-c0x00ffffff-no-rj" width="100" height="100"> <img src="https://avatars.githubusercontent.com/u/99806260?s=200&v=4" width="100" height="100"> 
